@@ -1,0 +1,9 @@
+ resistors...3Searching with a space of
+>
+Resistor <10000.0]: 2[>
+Resistor <2200.0]: 2[>
+Parallel <1803.27868852459]: 1[>
+Resistor <4700.0]: 2[>
+Resistor <470.0]: 2[>
+Series <5170.0]: 1[>
+Parallel <0.0462891130075604]: 0[

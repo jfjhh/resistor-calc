@@ -1,0 +1,14 @@
+Searching with a space of 3 resistors...
+[0]: 0.0462891130075604 <Parallel>
+[1]: 5170.0 <Series>
+[2]: 4700.0 <Resistor>
+[2]: 470.0 <Resistor>
+[1]: 1803.27868852459 <Parallel>
+[2]: 10000.0 <Resistor>
+[2]: 2200.0 <Resistor>
+
+=== ERRATA AND INFORMATION =====================================================
+Actually 4 resistors combined.
+5% of target (1337): 66.85
+Found value was 3 orders of magnitude more precise than resistor tolerance.
+
